@@ -1,0 +1,6 @@
+"SassGlow2"
+{
+	"Name"		"SassGlow2"
+	"Width"		"256"
+	"Height"	"256"
+}
